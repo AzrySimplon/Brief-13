@@ -1,0 +1,30 @@
+{
+  "0": {
+    "moves": 10,
+    "tiles": 10,
+    "name" : "Noob"
+  },
+  "1": {
+    "moves": 20,
+    "tiles": 16,
+    "name" : "Intermediate"
+  },
+  "2": {
+    "moves": 28,
+    "tiles": 22,
+    "name" : "Professional"
+  },
+  "3": {
+    "moves": 45,
+    "tiles": 30,
+    "name" : "Expert"
+  },
+  "4": {
+    "moves": 70,
+    "tiles": 50,
+    "name" : "Extreme"
+  },
+  "settings": {
+    "nbrLevels": 5
+  }
+}
